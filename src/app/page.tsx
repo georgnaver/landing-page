@@ -118,18 +118,18 @@ export default function Page() {
 
         <Section>
           <h2 className="text-xl font-bold">Research</h2>
-          {RESUME_DATA.research.map((work) => {
+          {RESUME_DATA.work.map((work) => {
             return (
-              <Card key={research.company}>
+              <Card key={work.company}>
                 <CardHeader>
                   <div className="flex items-center justify-between gap-x-2 text-base">
                     <h3 className="inline-flex items-center justify-center gap-x-1 font-semibold leading-none">
-                      <a className="hover:underline" href={research.link}>
+                      <a className="hover:underline" href={work.link}>
                         {work.company}
                       </a>
 
                       <span className="inline-flex gap-x-1">
-                        {research.badges.map((badge) => (
+                        {work.badges.map((badge) => (
                           <Badge
                             variant="secondary"
                             className="align-middle text-xs"
@@ -141,16 +141,16 @@ export default function Page() {
                       </span>
                     </h3>
                     <div className="text-sm tabular-nums text-gray-500">
-                      {research.start} - {research.end}
+                      {work.start} - {work.end}
                     </div>
                   </div>
 
                   <h4 className="font-mono text-sm leading-none">
-                    {research.title}
+                    {work.title}
                   </h4>
                 </CardHeader>
                 <CardContent className="mt-2 text-xs">
-                  {research.description}
+                  {work.description}
                 </CardContent>
               </Card>
             );
