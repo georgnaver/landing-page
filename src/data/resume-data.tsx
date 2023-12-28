@@ -64,20 +64,16 @@ export const RESUME_DATA = {
 
   projects: [
     {
-      title: "Consultly",
+      title: "GIZN Substack",
       techStack: [
-        "Side Project",
-        "TypeScript",
-        "Next.js",
-        "Vite",
-        "GraphQL",
-        "WebRTC",
+        "Email",
+        "Newsletter",
       ],
-      description: "A platform to build and grow your online business",
+      description: "An email newsletter on infectious diseases and clinical microbiology",
       logo: ConsultlyLogo,
       link: {
         label: "consultly.com",
-        href: "https://consultly.com/",
+        href: "https://gizn.substack.com/",
       },
     },
     {
