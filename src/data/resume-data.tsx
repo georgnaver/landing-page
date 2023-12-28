@@ -69,13 +69,27 @@ export const RESUME_DATA = {
         "Email",
         "Newsletter",
       ],
-      description: "An email newsletter on infectious diseases and clinical microbiology",
+      description: "An email newsletter on infectious diseases and clinical microbiology.",
    /**   logo: ConsultlyLogo, */
       link: {
-        label: "consultly.com",
+        label: "Substack",
         href: "https://gizn.substack.com/",
       },
     },
+    
+ {
+      title: "Shared Zotero library",
+      techStack: [
+        "Scientific articles",
+      ],
+      description: "A collection of interesting, time-less scientific articles.",
+   /**   logo: ConsultlyLogo, */
+      link: {
+        label: "Zotero",
+        href: "https://www.zotero.org/groups/5337739/gizn/library",
+      },
+    },    
+    
     {
       title: "Monito",
       techStack: ["Side Project", "TypeScript", "Next.js", "Browser Extension"],
