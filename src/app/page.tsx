@@ -141,7 +141,7 @@ export default function Page() {
                       </span>
                     </h3>
                     <div className="text-sm tabular-nums text-gray-500">
-                      {work.start} - {work.end}
+                      {work.start}
                     </div>
                   </div>
 
