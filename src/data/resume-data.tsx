@@ -70,7 +70,7 @@ export const RESUME_DATA = {
         "Newsletter",
       ],
       description: "An email newsletter on infectious diseases and clinical microbiology",
-      logo: ConsultlyLogo,
+   /**   logo: ConsultlyLogo, */
       link: {
         label: "consultly.com",
         href: "https://gizn.substack.com/",
