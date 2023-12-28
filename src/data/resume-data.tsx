@@ -20,12 +20,12 @@ import { LinkedInIcon } from "@/components/icons/LinkedInIcon";
 import { XIcon } from "@/components/icons/XIcon";
 
 export const RESUME_DATA = {
-  name: "Georg Navér",
-  initials: "GN",
+  name: "gizn",
+  initials: "gizn",
   location: "Stockholm, Sweden, CET",
   locationLink: "https://www.google.com/maps/place/Stockholm",
   about:
-    "Full Stack Engineer focused on building products with extra attention to details",
+    "Clinical Microbiologist with interest in ... ",
   summary:
     "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
   avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
