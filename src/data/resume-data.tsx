@@ -28,7 +28,7 @@ export const RESUME_DATA = {
     "MD/PhD",
   summary:
     "Clinical Microbiologist with interest in ...",
-  avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
+  avatarUrl: "https://avatars.githubusercontent.com/u/88291560?v=4",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
     email: "bartosz.jarocki@hey.com",
