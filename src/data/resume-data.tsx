@@ -20,7 +20,7 @@ import { LinkedInIcon } from "@/components/icons/LinkedInIcon";
 import { XIcon } from "@/components/icons/XIcon";
 
 export const RESUME_DATA = {
-  name: "gizn.org",
+  name: "GIZN",
   initials: "gizn",
   location: "Stockholm, Sweden, CET",
   locationLink: "https://www.google.com/maps/place/Stockholm",
