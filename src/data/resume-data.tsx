@@ -29,7 +29,7 @@ export const RESUME_DATA = {
   summary:
     "Clinical Microbiologist with interest in ...",
   avatarUrl: "https://avatars.githubusercontent.com/u/88291560?v=4",
-  personalWebsiteUrl: "https://jarocki.me",
+  personalWebsiteUrl: " ", # Tog bort command menu, borde inte synas ngnstans
   contact: {
     email: "bartosz.jarocki@hey.com",
     tel: "+48530213401",
