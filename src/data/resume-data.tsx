@@ -89,18 +89,6 @@ export const RESUME_DATA = {
         href: "https://www.zotero.org/groups/5337739/gizn/library",
       },
     },    
-    
-    {
-      title: "Monito",
-      techStack: ["Side Project", "TypeScript", "Next.js", "Browser Extension"],
-      description:
-        "Browser extension that records everything happening in a web application",
-      logo: MonitoLogo,
-      link: {
-        label: "monito.dev",
-        href: "https://monito.dev/",
-      },
-    },
 
   ],
 } as const;
