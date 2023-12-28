@@ -25,7 +25,7 @@ export const RESUME_DATA = {
   location: "Stockholm, Sweden, CET",
   locationLink: "https://www.google.com/maps/place/Stockholm",
   about:
-    "MD PhD",
+    "MD/PhD",
   summary:
     "Clinical Microbiologist with interest in ...",
   avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
