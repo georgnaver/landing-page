@@ -36,17 +36,13 @@ export const RESUME_DATA = {
     social: [
       {
         name: "GitHub",
-        url: "https://github.com/BartoszJarocki",
+        url: "https://github.com/georgnaver",
         icon: GitHubIcon,
       },
-      {
-        name: "LinkedIn",
-        url: "https://www.linkedin.com/in/bjarocki/",
-        icon: LinkedInIcon,
-      },
+
       {
         name: "X",
-        url: "https://x.com/BartoszJarocki",
+        url: "https://x.com/giznse",
         icon: XIcon,
       },
     ],
