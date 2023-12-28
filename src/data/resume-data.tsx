@@ -59,7 +59,7 @@ export const RESUME_DATA = {
       badges: ["Remote"],
       title: "Journal of Viral Hepatitis",
       logo: ParabolLogo,
-      start: "2021",
+      start: "2018",
       description:
         " ",
     },
