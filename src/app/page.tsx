@@ -118,7 +118,7 @@ export default function Page() {
 
         <Section>
           <h2 className="text-xl font-bold">Research</h2>
-          {RESUME_DATA.research.map((research) => {
+          {RESUME_DATA.research.map((work) => {
             return (
               <Card key={research.company}>
                 <CardHeader>
