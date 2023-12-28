@@ -90,6 +90,16 @@ export const RESUME_DATA = {
       },
     },    
     
+    {
+      title: "Monito",
+      techStack: ["Side Project", "TypeScript", "Next.js", "Browser Extension"],
+      description:
+        "Browser extension that records everything happening in a web application",
+      logo: MonitoLogo,
+      link: {
+        label: "monito.dev",
+        href: "https://monito.dev/",
+      },
     },
 
   ],
