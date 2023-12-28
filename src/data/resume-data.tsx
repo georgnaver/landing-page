@@ -59,7 +59,7 @@ export const RESUME_DATA = {
       end: "2010",
     },
   ],
-  work: [
+  research: [
     {
       company: "Parabol",
       link: "https://parabol.co",
