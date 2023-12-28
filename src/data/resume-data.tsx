@@ -50,7 +50,7 @@ export const RESUME_DATA = {
   
   work: [
     {
-      company: "Incidence and spontaneous clearance of hepatitis C virus (HCV) in people who inject drugs at the Stockholm Needle Exchange-Importance for HCV elimination",
+      company: "Incidence and spontaneous clearance of hepatitis C virus (HCV) in people who inject drugs at the Stockholm Needle Exchange - Importance for HCV elimination",
       link: "https://pubmed.ncbi.nlm.nih.gov/29998522/",
       badges: ["HCV", "HBV", "HIV"],
       title: "Journal of Viral Hepatitis",
