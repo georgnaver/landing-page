@@ -49,8 +49,6 @@ export default function Page() {
               ) : null}
  
 
-
-
               {RESUME_DATA.contact.social.map((social) => (
                 <Button
                   key={social.name}
