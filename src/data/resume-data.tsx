@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "MD/PhD",
   summary:
-    "Clinical microbiologist with interest in data science and coding.",
+    "Clinical microbiologist with interest in epidemiology, data science and coding.",
   avatarUrl: "https://avatars.githubusercontent.com/u/88291560?v=4",
   personalWebsiteUrl: " ",
   contact: {
