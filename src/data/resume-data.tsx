@@ -64,9 +64,9 @@ export const RESUME_DATA = {
 
   projects: [
     {
-      title: "GIZN Substack",
+      title: "The GIZN Medical Journal",
       techStack: [
-        "Email",
+        "Substack",
         "Newsletter",
       ],
       description: "An email newsletter on infectious diseases and clinical microbiology.",
@@ -77,10 +77,25 @@ export const RESUME_DATA = {
       },
     },
     
+{
+      title: "GIZN Notes",
+      techStack: [
+        "Substack",
+        "Notes",
+      ],
+      description: "A stream of thoughts and interesting research.",
+   /**   logo: ConsultlyLogo, */
+      link: {
+        label: "Substack",
+        href: "https://gizn.substack.com/notes",
+      },
+    },    
+    
  {
       title: "Shared Zotero library",
       techStack: [
         "Scientific articles",
+        "Zotero",
       ],
       description: "A collection of interesting, time-less scientific articles.",
    /**   logo: ConsultlyLogo, */
