@@ -23,6 +23,8 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className={inter.className}>
+    	<script data-goatcounter="https://giznorg.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
       <body>{children}</body>
       <Analytics />
     </html>
