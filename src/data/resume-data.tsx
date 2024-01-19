@@ -63,6 +63,21 @@ export const RESUME_DATA = {
   ],
 
   projects: [
+	{
+      title: "KS salary comparison",
+      techStack: [
+        "R",
+        "Shiny",
+        "Quarto",
+      ],
+      description: "A small web app used for salary negotiation on Karolinska Hospital",
+   /**   logo: ConsultlyLogo, */
+      link: {
+        label: "R",
+        href: "https://gizn.shinyapps.io/LonKS/",
+      },
+    },
+  
     {
       title: "The GIZN Medical Journal",
       techStack: [
